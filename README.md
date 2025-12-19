@@ -1,4 +1,10 @@
-<h1 align="center">👾 ElStitchMalo</h1>
+<pre align="center">
+   ____  _   _ _       _     __  __       _       
+/ ___|| |_(_) |_ ___| |__ |  \/  | __ _| | ___  
+\___ \| __| | __/ __| '_ \| |\/| |/ _` | |/ _ \ 
+ ___) | |_| | || (__| | | | |  | | (_| | | (_) |
+|____/ \__|_|\__\___|_| |_|_|  |_|\__,_|_|\___/ 
+</pre>
 <h3 align="center">Hacking Ético · Programación</h3>
 
 <table>
@@ -47,7 +53,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=elstitchmalo&theme=radical&show_icons=true)
 
 ### Blog
-- GitHub: [https://github.com/TuUsuario](https://elstitchmalo.github.io/)   
+- [https://github.com/TuUsuario](elstitchmalo.github.io)   
 
 </td>
 </tr>
