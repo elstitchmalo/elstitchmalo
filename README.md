@@ -49,11 +49,11 @@
 
 <td width="50%" valign="top">
 
-### GitHub
+### Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=elstitchmalo&theme=radical&show_icons=true)
 
 ### Blog
-- [https://github.com/TuUsuario](elstitchmalo.github.io)   
+[elstitchmalo.github.io](https://elstitchmalo.github.io/)  
 
 </td>
 </tr>
