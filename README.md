@@ -50,7 +50,6 @@
 <td width="50%" valign="top">
 
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=elstitchmalo&theme=radical&show_icons=true)
 
 ### Blog
 [elstitchmalo.github.io](https://elstitchmalo.github.io/)  
