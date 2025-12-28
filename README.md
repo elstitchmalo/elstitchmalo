@@ -49,8 +49,6 @@
 
 <td width="50%" valign="top">
 
-### Stats
-
 ### Blog
 [elstitchmalo.github.io](https://elstitchmalo.github.io/)  
 
