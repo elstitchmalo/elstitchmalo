@@ -49,7 +49,8 @@
 
 <td width="50%" valign="top">
 
-### Blog                                                                                                                        
+### Blog       
+<br>
 [elstitchmalo.github.io](https://elstitchmalo.github.io/)  
 
 </td>
