@@ -49,7 +49,7 @@
 
 <td width="50%" valign="top">
 
-<div style="width:100%;">
+<div width=100%>
 ### Blog       
 [elstitchmalo.github.io](https://elstitchmalo.github.io/)  
 </div> 
