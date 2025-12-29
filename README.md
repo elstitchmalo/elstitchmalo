@@ -49,11 +49,9 @@
 
 <td width="50%" valign="top">
 
-<div width=100%>
-### Blog       
-[elstitchmalo.github.io](https://elstitchmalo.github.io/)  
-</div> 
-
+<h3>Blog</h3>
+<a href="https://elstitchmalo.github.io/">elstitchmalo.github.io</a>  
+<div style="height:100%; width:1px;"></div>
 </td>
 </tr>
 </table>
