@@ -50,8 +50,10 @@
 <td width="50%" valign="top">
 
 <h3>Blog</h3>
-<a href="https://elstitchmalo.github.io/">elstitchmalo.github.io</a>  
-<div style="height:100%; width:1px;"></div>
+<hr>
+<b>Enlace: </b><a href="https://elstitchmalo.github.io/">elstitchmalo.github.io</a> 
+<br><br>
+<i>Noticias, documentación y recursos sobre hacking, programación y tecnología. Un diario técnico de aprendizaje y experimentación.</i>
 </td>
 </tr>
 </table>
