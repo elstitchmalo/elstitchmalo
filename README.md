@@ -49,7 +49,7 @@
 
 <td width="50%" valign="top">
 
-### Blog
+### Blog 
 [elstitchmalo.github.io](https://elstitchmalo.github.io/)  
 
 </td>
