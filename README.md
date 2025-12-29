@@ -50,7 +50,7 @@
 <td width="50%" valign="top">
 
 ### Blog       
-<br>
+<hr></hr>
 [elstitchmalo.github.io](https://elstitchmalo.github.io/)  
 
 </td>
