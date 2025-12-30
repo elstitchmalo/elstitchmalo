@@ -57,7 +57,7 @@
 </td>
 </tr>
 </table>
-
+ 
 <p align="center">
   <i>“Eterno estudiante”</i>
 </p>
