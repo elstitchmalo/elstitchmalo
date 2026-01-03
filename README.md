@@ -53,7 +53,7 @@
 <hr>
 <b>Enlace: </b><a href="https://elstitchmalo.github.io/">elstitchmalo.github.io</a> 
 <br><br>
-<i>Noticias, documentación y recursos sobre hacking, programación y tecnología. Un diario técnico de aprendizaje y experimentación.</i> 
+<i>Noticias, documentación y recursos sobre hacking, programación y tecnología. Un diario técnico de aprendizaje y experimentación.</i>  
 </td>
 </tr>
 </table>
